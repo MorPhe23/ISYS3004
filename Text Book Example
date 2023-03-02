@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="utf-8">
+ <title>Summer Smash 2010 Registration</title>
+ <link rel="stylesheet" href="css/style.css">
+ <script src="js/javascript.js"></script>
+</head>
+<body>
+ <div Id="pagewrap">
+ <header>
+ <a href="/">
+ <h1>Summer Smash 2012</h1>
+ <p>This summer's most smashing event!</p>
+ </a>
+ </header>
+ <section Id="main">
+ <section Id="registration_form">
+ </section>
+ <aside>
+ <h2>Questions about whether Summer Smash is right for you?</h2>
+ <p>We're here to help! Our team of smashtastic
+smashers will shatter any doubt in your mind. Why not give us a
+call, or send us an email?</p>
+ <ul>
+ <li>Call: 1-800-555-5555</li>
+ <li>Email: <a href="mailto: smash@example.com ">smash@example.com</a></li>
+ </ul>
+ </aside>
+ </section>
+ <footer>
+ <p>Summer Smash 2012. A Barker and Lane Production.</p>
+ </footer>
+ </div>
+</body>
+</html>
